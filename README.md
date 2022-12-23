@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/RsZPaC9.png" width="550">
 
-# Slack Watchman 
+# Slack Watchman !
 ![Python 2.7 and 3 compatible](https://img.shields.io/pypi/pyversions/slack-watchman)
 ![PyPI version](https://img.shields.io/pypi/v/slack-watchman.svg)
 ![License: MIT](https://img.shields.io/pypi/l/slack-watchman.svg)
